@@ -1,0 +1,7 @@
+span#removeTrackBtn {
+  font-stretch: 1rem;
+  color: $background;
+}
+span#removeTrackBtn:hover {
+  color: white;
+}
